@@ -1,0 +1,5 @@
+database.db
+*.pyc
+*.db
+test.py
+ora_connection.py
